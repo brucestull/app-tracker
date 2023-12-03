@@ -58,7 +58,6 @@ INSTALLED_APPS = [
     "self_enquiry.apps.SelfEnquiryConfig",
     "app_tracker.apps.AppTrackerConfig",
     "cbt.apps.CbtConfig",
-    "pharma_tracker.apps.PharmaTrackerConfig",
 ]
 
 MIDDLEWARE = [

@@ -36,5 +36,4 @@ urlpatterns = [
     path("journals/", include("self_enquiry.urls")),
     path("app-tracker/", include("app_tracker.urls")),
     path("cbt/", include("cbt.urls")),
-    path("pharma-tracker/", include("pharma_tracker.urls")),
 ]
