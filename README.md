@@ -1,5 +1,7 @@
 # App Tracker
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/Y1ZCzLfk7VvFxn1NaACyjS/H2oEQoKC4RNUafpfrpA9Wy/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/circleci/Y1ZCzLfk7VvFxn1NaACyjS/H2oEQoKC4RNUafpfrpA9Wy/tree/main)
+
 ## Introduction
 A brief description of what the application does and the problem it solves. Include a couple of key features or benefits.
 
