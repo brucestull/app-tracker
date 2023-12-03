@@ -3,15 +3,6 @@
 <ul>
     <li><a href="{% url 'home' %}">Personal Assistant</a></li>
     <li><a href={% url "app_tracker:home" %}>App Tracker</a></li>
-    <li>
-        CBT
-        |
-        <a href={% url "cbt:cognitive-distortion-list" %}>Cognitive Distortions</a>
-        |
-        <a href={% url "cbt:thought-list" %}>Thoughts</a>
-        |
-        <a href={% url "cbt:thought-create" %}>Create New Thought</a>
-    </li>
 </ul>
 
 {% endblock content %}

@@ -56,7 +56,6 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "django.contrib.admindocs",
     "app_tracker.apps.AppTrackerConfig",
-    "cbt.apps.CbtConfig",
 ]
 
 MIDDLEWARE = [

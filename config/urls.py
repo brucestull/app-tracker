@@ -34,5 +34,4 @@ urlpatterns = [
     path("accounts/", include("accounts.urls")),
     path("accounts/", include("django.contrib.auth.urls")),
     path("app-tracker/", include("app_tracker.urls")),
-    path("cbt/", include("cbt.urls")),
 ]
