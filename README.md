@@ -1,4 +1,4 @@
-# Career Organizerator
+# App Tracker
 
 ## Introduction
 A brief description of what the application does and the problem it solves. Include a couple of key features or benefits.
