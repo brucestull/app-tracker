@@ -55,7 +55,6 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django.contrib.admindocs",
-    "self_enquiry.apps.SelfEnquiryConfig",
     "app_tracker.apps.AppTrackerConfig",
     "cbt.apps.CbtConfig",
 ]
