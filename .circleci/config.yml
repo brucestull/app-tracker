@@ -35,8 +35,8 @@ jobs:
     docker:
       - image: cimg/python:3.11.5
     steps:
-      resource_class: medium+
       # Step 5: obtain repo from GitHub
+      resource_class: medium+
       - checkout
       # Step 6: Install Heroku CLI
       - run:
